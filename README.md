@@ -5,5 +5,6 @@ For compiling this code follow run these command:
 2. copy .env.example .env  
 3. php artisan key:generate 
 4. modify your database and host in .env file  
-5. php artisan migrate  6. php artisan serve  
+5. php artisan migrate  
+6. php artisan serve  
 
